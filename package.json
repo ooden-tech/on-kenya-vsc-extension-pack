@@ -1,0 +1,42 @@
+{
+  "name": "on-kenya-vsc-extension-pack",
+  "displayName": "on-kenya-vsc-extension-pack",
+  "description": "",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ooden-tech/on-kenya-vsc-extension-pack.git"
+  },
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "4ops.terraform",
+    "aaron-bond.better-comments",
+    "AbhijoyBasak.nestjs-files",
+    "christian-kohler.path-intellisense",
+    "cschleiden.vscode-github-actions",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "GitHub.vscode-pull-request-github",
+    "Gruntfuggly.todo-tree",
+    "hashicorp.terraform",
+    "kuscamara.remove-unused-imports",
+    "ms-vscode.vscode-js-profile-flame",
+    "NuclleaR.vscode-extension-auto-import",
+    "pranaygp.vscode-css-peek",
+    "satansdeer.plop",
+    "streetsidesoftware.code-spell-checker",
+    "stylelint.vscode-stylelint",
+    "vincaslt.highlight-matching-tag",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "wayou.vscode-todo-highlight"
+  ]
+}
