@@ -3,6 +3,7 @@
   "displayName": "on-kenya-vsc-extension-pack",
   "description": "",
   "version": "0.0.1",
+  "publisher": "M3talen",
   "repository": {
     "type": "git",
     "url": "https://github.com/ooden-tech/on-kenya-vsc-extension-pack.git"
