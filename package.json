@@ -2,7 +2,7 @@
   "name": "on-kenya-vsc-extension-pack",
   "displayName": "on-kenya-vsc-extension-pack",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "M3talen",
   "repository": {
     "type": "git",
@@ -15,6 +15,13 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "amatiasq.sort-imports",
+    "DavidAnson.vscode-markdownlint",
+    "emilast.LogFileHighlighter",
+    "IronGeek.vscode-env",
+    "quicktype.quicktype",
+    "donjayamanne.githistory",
+    "formulahendry.code-runner",
     "4ops.terraform",
     "aaron-bond.better-comments",
     "AbhijoyBasak.nestjs-files",
